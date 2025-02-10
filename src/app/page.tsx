@@ -74,7 +74,7 @@ export default function Home() {
             <Mail className="w-6 h-6 ml-2" />
           </Button>
 
-{/* Botones para agregar nuevo */}
+          {/* Botones para agregar nuevo */}
           {/* <Button
             variant={"link"}
             // ir a una url externa
@@ -84,7 +84,6 @@ export default function Home() {
             Contact me
             <Mail className="w-6 h-6 ml-2" />
           </Button> */}
-
         </CardFooter>
       </Card>
     </div>
